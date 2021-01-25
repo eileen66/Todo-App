@@ -1,2 +1,2 @@
-# Todo-App
+# Todo App
 <img src='walkthrough.gif' />
